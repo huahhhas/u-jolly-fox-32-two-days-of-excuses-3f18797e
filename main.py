@@ -10,7 +10,7 @@ Stdlib only.
 import os
 import sys
 
-LINE = "I finished it three days early \u2014 in the simulation where I actually started on time."
+LINE = "I delegated the deadline to my future self. He just replied with this excuse."
 
 
 def main() -> int:
