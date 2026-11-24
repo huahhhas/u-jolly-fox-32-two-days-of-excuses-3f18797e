@@ -8,7 +8,7 @@ Entry for the [make.fun](https://make.fun) bounty **Two Days of Excuses**: the f
 
 ## The line
 
-> I finished it three days early — in the simulation where I actually started on time.
+> I delegated the deadline to my future self. He just replied with this excuse.
 
 ## How it works
 
